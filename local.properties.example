@@ -1,0 +1,6 @@
+# Copie este arquivo para local.properties (mesma pasta) e coloque sua chave.
+# O local.properties e ignorado pelo Git: NUNCA envie uma chave real para o repositorio.
+OPENAI_API_KEY=sua-chave-aqui
+# Opcional (o padrao ja aponta para o Groq):
+# OPENAI_BASE_URL=https://api.groq.com/openai
+# OPENAI_MODEL=openai/gpt-oss-120b
