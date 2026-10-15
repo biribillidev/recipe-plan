@@ -8,7 +8,7 @@ repositório base do professor: <https://github.com/joaocarloslima/recipe-plan>
 
 | Nome | RM |
 |------|----|
-| _preencher_ | _preencher_ |
+| RM565594 | João Vitor Biribilli Ravelli |
 
 ## O que foi implementado (tarefas do enunciado)
 
